@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/05/01 12:41:00.000.215,=C:\Users\aecio\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/01 12:55:08.000.641,=C:\Users\aecio\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/03 22:46:57.000.377,=C:\Users\aecio\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/03 22:52:22.000.044,=C:\Users\aecio\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/12 19:45:41.906,=C:\Users\aecio\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/12 19:52:28.479,C:\Git\DataSnap\DataSnap Manual\Server\UServidor.pas=C:\Users\aecio\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/12 19:52:28.479,C:\Git\DataSnap\DataSnap Manual\Server\UServidor.dfm=C:\Users\aecio\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/05/12 19:52:58.753,C:\Git\DataSnap\DataSnap Manual\Server\ProjectServidor.dproj=C:\Users\aecio\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/05/12 19:57:27.820,=C:\Git\DataSnap\DataSnap Manual\Server\Unit1.pas</Transaction>
+    <Transaction>2023/05/12 19:58:25.004,C:\Git\DataSnap\DataSnap Manual\Server\UClasseServidor.pas=C:\Git\DataSnap\DataSnap Manual\Server\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

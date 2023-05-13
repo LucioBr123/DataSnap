@@ -1,0 +1,8 @@
+unit UClasseServidor;
+         //classe responalvel por comunnicar com o client
+         //tudo que ele vai ter acesso
+interface
+
+implementation
+
+end.
