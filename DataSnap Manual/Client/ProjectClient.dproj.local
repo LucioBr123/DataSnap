@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/05/14 11:04:46.000.471,=C:\Users\aecio\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/05/14 11:05:13.000.552,C:\Git\DataSnap\DataSnap Manual\Client\UClient.pas=C:\Users\aecio\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/05/14 11:05:13.000.552,C:\Git\DataSnap\DataSnap Manual\Client\UClient.dfm=C:\Users\aecio\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2023/05/14 11:18:33.000.504,C:\Git\DataSnap\DataSnap Manual\Client\ProjectClient.dproj=C:\Users\aecio\OneDrive\Documentos\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2023/05/14 11:31:49.000.323,=C:\Git\DataSnap\DataSnap Manual\Client\Unit1.pas</Transaction>
+    <Transaction>2023/05/14 11:33:49.000.468,C:\Git\DataSnap\DataSnap Manual\Client\UDataSnapClientClasses.pas=C:\Git\DataSnap\DataSnap Manual\Client\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
